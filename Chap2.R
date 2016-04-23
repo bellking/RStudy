@@ -1,3 +1,4 @@
+# R을 이용한 데이터 처리 & 분석 실무
 # Factor
 # Factor는 범주형(Categorical) 데이터를 표현하기 위한 데이터 타입이다.
 # 범주형(Categorical) 데이터는 또 다시 명목형(Norminal)과 순서형(Ordinal)로 구분된다.
